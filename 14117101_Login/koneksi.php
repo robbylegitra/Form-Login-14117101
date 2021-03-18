@@ -2,5 +2,5 @@
 $host       = "localhost";
 $user       = "root";
 $password   = "";
-$database   = "login";
+$database   = "googlelogin";
 $connect    = mysqli_connect($host, $user, $password, $database);
